@@ -3,7 +3,7 @@ Solution to Bluerain Technologies technical assesment
 #Pull the codebase and run on your favourite python notebook
 follow the prompts and ensure that you use capital letters for directions as i did not include input validation
 this was for demonstration purposes only
-here is an example input 
+here is an example input to be used as blueprint
 
 how many rovers are on board?  >>>2
 What is the upper right coordinate seperated by comma eg 3,2?  >>>0,2
